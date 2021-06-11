@@ -2,7 +2,7 @@
 大家好，从今天学习了GitHub的操作，现在使用markdown编写我的第一个博客
 
 ## 我的代码
-    pritn("hello word")
+    print("hello word")
  ## 第一个界面
 ```html
 <!DOCTYPE html>
